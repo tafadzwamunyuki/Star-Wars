@@ -1,0 +1,3 @@
+For demonstration purposes the following users have been registered with the system:john with a Password of password,steve with a Password of password1234.More users will first need to register with the system in order to be able to use it.
+
+The system runs on MySQL database,and requires a local server such as Xampp or Wamp to be running in the background,and any web browser.
